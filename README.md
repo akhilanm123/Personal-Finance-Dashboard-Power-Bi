@@ -61,5 +61,64 @@ The tooltip helps identify trends, such as:
 
 - Fluctuations in income and expenses.
 - Changes in savings percentages, which may indicate improved financial management or varying income/expense patterns.
+   #### Tooltip 2: Total Expenses
+  ![Total Expenses](https://github.com/user-attachments/assets/6163ac65-685f-4a10-bc55-37e4bb45c6a3)
+
+
+  This tooltip visualizes Total Expenses over time, broken down into key components:
+
+##### Expense Categories:
+
+###### 1. EMIs (Blue Line): 
+Represents monthly expenditures on loans or installments.
+###### 2. Groceries & Food (Light Blue Line): 
+Covers daily essentials and food-related expenses.
+###### 3. Health (Orange Line):
+Tracks medical or healthcare spending.
+###### 4. House Rent (Purple Line):
+Indicates the rent paid monthly.
+###### 5. Leisure (Pink Line): 
+Includes expenses on entertainment and recreational activities.
+###### 6. Shopping (Dark Purple Line): 
+Tracks spending on shopping.
+##### Trends and Insights:
+
+- Each line highlights fluctuations in spending within its category over time.
+- The tooltip aids in identifying spikes or reductions in specific expense types, helping users analyze patterns.
+- This visualization offers a granular understanding of spending habits, empowering users to evaluate and manage their finances effectively.
+     #### Tooltip 3: Total Savings
+  ![Total Savings](https://github.com/user-attachments/assets/8190c4de-a41d-4249-81c8-623a8c5d4fff)
+
+  This tooltip illustrates Total Savings over time, categorized into various saving components:
+
+##### Savings Components:
+###### Emergency Fund (Green Line):  
+Represents funds set aside for unexpected financial needs.
+###### Fixed Deposit (Dark Blue Line): 
+Indicates savings invested in fixed deposits for stable returns.
+###### Liquid Cash (Light Blue Line): 
+Tracks readily available cash.
+###### Mutual Funds (Pink Line): 
+Reflects investments in mutual funds for potential growth.
+##### Trends and Insights:
+
+- Each line helps monitor the growth or reduction of specific savings types.
+- Significant dips or rises highlight changes in financial strategy, such as increased investments or emergency fund withdrawals.
+  #### Tooltip 4. Net Worth
+  ![Net Worth](https://github.com/user-attachments/assets/47211216-4e61-49ef-80bc-d6d1025fae63)
+
+  This chart visualizes the growth of net worth over time, showing data points at regular intervals (e.g., monthly). The trend line highlights steady financial progress, with net worth values increasing consistently. The tooltip appears when hovering over any point on the chart. It provides detailed insights into the financial data for that specific time period, including:
+
+###### Date: The month and year of the data point.
+###### Net Worth: The total net worth at that time.
+###### Change from Previous Period: How much the net worth has increased or decreased compared to the prior period.
+###### Percentage Growth (Optional): The rate of increase in net worth compared to the prior period.
+
+## Final Conclusion:
+In conclusion, the development of this interactive Finance Dashboard in Power BI has significantly enhanced the ability to monitor and analyze financial performance. By integrating dynamic visualizations and detailed tooltips, users can gain deeper insights into their income, expenses, and savings patterns. This project not only demonstrates proficiency in data analytics and visualization but also underscores the importance of effective financial data presentation for informed decision-making.
+
+
+
+
 
 
