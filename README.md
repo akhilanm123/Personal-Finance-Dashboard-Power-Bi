@@ -3,6 +3,21 @@
 The Finance Dashboard aims to provide a detailed visualization of income, expenses, and savings over time, enabling users to track financial performance and identify spending patterns. The goal is to help users assess whether they are saving and spending in proportion to their earnings.
 ## Dataset Used
 - <a href="https://https://github.com/akhilanm123/Personal-Finance-Dashboard-Power-Bi/blob/main/Finance%20Database.xlsx">Personal Finanace Dataset</a>
+## Technical Approach
+##### Data Sources:
+   Used Excel/CSV data files for financial records.
+##### Data Transformation:
+   Cleaned and transformed raw financial data using Power Query for better usability.
+##### Visualization Tools:
+- Line charts for trend analysis.
+- Bar charts for category breakdowns.
+- Card visuals for summary metrics.
+##### DAX Measures: 
+Created custom calculations for percentages (e.g., savings %, expense %) and aggregates (e.g., total income, net worth).
+
+## Dashboard Interaction
+-<a href="https://https://github.com/akhilanm123/Personal-Finance-Dashboard-Power-Bi/blob/main/Finance%20dashboard.pbix">Personal Finance Analysis</a>
+
 ## Key Features
 #### 1. Summary Statistics:
 - Total income and expenses over the years.
@@ -22,3 +37,10 @@ The Finance Dashboard aims to provide a detailed visualization of income, expens
 #### 5.Interactive Filters:
 - Year and date filters to allow users to drill down into specific time periods.
 - Dynamic visuals that update based on filter selection.
+ ## Insights Derived
+#### Expense Patterns: 
+House rent, groceries, and EMIs are the predominant expenses, collectively constituting over 85% of total expenditures.
+#### Savings Strategy: 
+A significant portion of savings is directed towards mutual funds, indicating a preference for long-term investment.
+#### Financial Trends: 
+Post-2020 data shows an increase in savings, suggesting improved financial management or reduced spending.
