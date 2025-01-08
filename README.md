@@ -44,3 +44,22 @@ House rent, groceries, and EMIs are the predominant expenses, collectively const
 A significant portion of savings is directed towards mutual funds, indicating a preference for long-term investment.
 #### Financial Trends: 
 Post-2020 data shows an increase in savings, suggesting improved financial management or reduced spending.
+
+## Tooltips Used:
+#### Tooltip 1: Monthly Financial Trends: Income, Expenses, and Savings
+![Monthly Financial Trends Income, Expenses, and Savings](https://github.com/user-attachments/assets/9e890649-ebb3-47b9-b0a6-6a2e3dbcf5a0)
+
+This tooltip provides insights into financial performance over time, with three metrics being visualized:
+###### 1. Total Income (Light Blue Bars):
+Represents the total monthly income for the given period.
+###### 2. Total Expense (Dark Blue Bars):
+Indicates the total monthly expenditure.
+###### 3. Savings % (Orange Line): 
+Reflects the percentage of income saved each month, calculated as savings divided by income.
+
+The tooltip helps identify trends, such as:
+
+- Fluctuations in income and expenses.
+- Changes in savings percentages, which may indicate improved financial management or varying income/expense patterns.
+
+
